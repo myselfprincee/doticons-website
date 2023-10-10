@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { GithubDoticon } from 'doticons/32';
 import styles from './page.module.css';
 
 export default function Home() {
@@ -29,6 +30,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
+        <GithubDoticon fill="#fff" width="100px" />
         <Image
           className={styles.logo}
           src="/next.svg"
