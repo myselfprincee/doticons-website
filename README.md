@@ -17,8 +17,6 @@
 </div>
 <br />
 
-![image](https://github.com/eduardconstantin/doticons-website/assets/9199763/3af1095d-8d81-487f-be28-504c275f9d4e)
-
 ## 👥 Contributing
 
 I welcome feedback and contributions from other developers, designers, and enthusiasts who are passionate about dot icons and want to make a positive impact on this repository.
