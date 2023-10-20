@@ -1,9 +1,9 @@
-import styles from '../app/Footer.module.scss'
+import styles from '../app/Footer.module.scss';
 
 const Footer = () => {
   return (
     <footer className={styles.footer}>
-          <p>Built using NextJS</p>
+      <p>Built using NextJS</p>
     </footer>
   );
 };
