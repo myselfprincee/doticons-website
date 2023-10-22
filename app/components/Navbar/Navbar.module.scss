@@ -1,0 +1,36 @@
+.navbar{
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+border: 1px solid rgba(255, 255, 255, 0.30);
+background: rgba(23, 27, 33, 0.20);
+backdrop-filter: blur(5.5px);
+border-bottom: 1px solid white;
+}
+
+.nav_grouped{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.nav_left_grouped{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.version{
+    font-size: .8rem;
+    color: white;
+    margin-left: 2.5rem;
+}
+
+.version:hover{
+text-decoration: underline;
+}
