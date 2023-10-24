@@ -1,12 +1,9 @@
 import DotsBackground from '../components/DotsBackground';
 
-function YourPage() {
+export default function Home() {
   return (
     <div>
       <DotsBackground />
-      {/* Your page content */}
     </div>
   );
 }
-
-export default YourPage;

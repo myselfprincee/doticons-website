@@ -16,15 +16,6 @@
   
   .dot {
     fill: rgb(255, 255, 255);
-    animation: dotAnimation 5s infinite alternate ease-in-out;
   }
-  
-  @keyframes dotAnimation {
-    0% {
-      opacity: 0.4;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
+
   
