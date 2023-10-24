@@ -1,9 +1,10 @@
-import DotsBackground from '../components/DotsBackground';
+import styles from './page.module.scss';
 
 export default function Home() {
   return (
-    <div>
-      <DotsBackground />
-    </div>
+    <main className={styles.main}>
+
+    </main>
   );
 }
+
